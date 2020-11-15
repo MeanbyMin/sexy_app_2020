@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sexy_app_2020/static/css/main.f9850b35.chunk.css",
+    "main.css": "/sexy_app_2020/static/css/main.534f2589.chunk.css",
     "main.js": "/sexy_app_2020/static/js/main.d87acbd6.chunk.js",
     "main.js.map": "/sexy_app_2020/static/js/main.d87acbd6.chunk.js.map",
     "runtime-main.js": "/sexy_app_2020/static/js/runtime-main.edac5775.js",
@@ -8,13 +8,13 @@
     "static/js/2.84d5c1a7.chunk.js": "/sexy_app_2020/static/js/2.84d5c1a7.chunk.js",
     "static/js/2.84d5c1a7.chunk.js.map": "/sexy_app_2020/static/js/2.84d5c1a7.chunk.js.map",
     "index.html": "/sexy_app_2020/index.html",
-    "static/css/main.f9850b35.chunk.css.map": "/sexy_app_2020/static/css/main.f9850b35.chunk.css.map",
+    "static/css/main.534f2589.chunk.css.map": "/sexy_app_2020/static/css/main.534f2589.chunk.css.map",
     "static/js/2.84d5c1a7.chunk.js.LICENSE.txt": "/sexy_app_2020/static/js/2.84d5c1a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.edac5775.js",
     "static/js/2.84d5c1a7.chunk.js",
-    "static/css/main.f9850b35.chunk.css",
+    "static/css/main.534f2589.chunk.css",
     "static/js/main.d87acbd6.chunk.js"
   ]
 }
