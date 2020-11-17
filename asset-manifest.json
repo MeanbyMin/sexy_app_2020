@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sexy_app_2020/static/css/main.534f2589.chunk.css",
-    "main.js": "/sexy_app_2020/static/js/main.d87acbd6.chunk.js",
-    "main.js.map": "/sexy_app_2020/static/js/main.d87acbd6.chunk.js.map",
+    "main.css": "/sexy_app_2020/static/css/main.f3075673.chunk.css",
+    "main.js": "/sexy_app_2020/static/js/main.4be45369.chunk.js",
+    "main.js.map": "/sexy_app_2020/static/js/main.4be45369.chunk.js.map",
     "runtime-main.js": "/sexy_app_2020/static/js/runtime-main.edac5775.js",
     "runtime-main.js.map": "/sexy_app_2020/static/js/runtime-main.edac5775.js.map",
-    "static/js/2.84d5c1a7.chunk.js": "/sexy_app_2020/static/js/2.84d5c1a7.chunk.js",
-    "static/js/2.84d5c1a7.chunk.js.map": "/sexy_app_2020/static/js/2.84d5c1a7.chunk.js.map",
+    "static/js/2.564ddd0b.chunk.js": "/sexy_app_2020/static/js/2.564ddd0b.chunk.js",
+    "static/js/2.564ddd0b.chunk.js.map": "/sexy_app_2020/static/js/2.564ddd0b.chunk.js.map",
     "index.html": "/sexy_app_2020/index.html",
-    "static/css/main.534f2589.chunk.css.map": "/sexy_app_2020/static/css/main.534f2589.chunk.css.map",
-    "static/js/2.84d5c1a7.chunk.js.LICENSE.txt": "/sexy_app_2020/static/js/2.84d5c1a7.chunk.js.LICENSE.txt"
+    "static/css/main.f3075673.chunk.css.map": "/sexy_app_2020/static/css/main.f3075673.chunk.css.map",
+    "static/js/2.564ddd0b.chunk.js.LICENSE.txt": "/sexy_app_2020/static/js/2.564ddd0b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.edac5775.js",
-    "static/js/2.84d5c1a7.chunk.js",
-    "static/css/main.534f2589.chunk.css",
-    "static/js/main.d87acbd6.chunk.js"
+    "static/js/2.564ddd0b.chunk.js",
+    "static/css/main.f3075673.chunk.css",
+    "static/js/main.4be45369.chunk.js"
   ]
 }
